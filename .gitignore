@@ -4,6 +4,6 @@ cropped_fruits
 *venv
 .idea
 .DS_Store
-train/
 model/
 venv/
+fruit-detect/
